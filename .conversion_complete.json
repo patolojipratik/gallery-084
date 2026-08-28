@@ -1,0 +1,15 @@
+{
+  "gallery_id": "gallery-084",
+  "source_name": "gastrit1.svs",
+  "source_format": "SVS",
+  "width": 16704,
+  "height": 11520,
+  "total_tiles": 1050,
+  "completed_tiles": 1050,
+  "has_label": false,
+  "jpeg_quality": 72,
+  "jpeg_subsampling": 2,
+  "tile_size": 512,
+  "super_tile_size": 2048,
+  "encode_workers": 4
+}
